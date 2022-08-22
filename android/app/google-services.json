@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "825338305358",
+    "project_id": "newbookapp-85e51",
+    "storage_bucket": "newbookapp-85e51.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825338305358:android:2da1b4c2ed250679e31c1f",
+        "android_client_info": {
+          "package_name": "com.example.newbookapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "825338305358-pes34tmeviandim20v15av15ag32r28e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBaSt_rv67ZENJZSQuhmYHu9W6kRCXheA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "825338305358-pes34tmeviandim20v15av15ag32r28e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
